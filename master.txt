@@ -1,9 +1,0 @@
-This is my first file
-<<<<<<< HEAD
-Another change
-<<<<<<< HEAD
-otra línea||
-=======
->>>>>>> parent of 4979576 (Segundo commit)
-=======
->>>>>>> parent of d38ef59 (c4: se sobreescriben los archivos)
