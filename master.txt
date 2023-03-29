@@ -1,3 +1,6 @@
 This is my first file
+<<<<<<< HEAD
 Another change
 otra línea||
+=======
+>>>>>>> parent of 4979576 (Segundo commit)
